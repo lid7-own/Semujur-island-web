@@ -57,8 +57,8 @@ export const siteContent = {
           path: "/images/gallery/clownfish.jpg"
         },
         {
-          title: "Angelfish",
-          path: "/images/gallery/angelfish.jpg"
+          title: "Coral Collection",
+          path: "/images/gallery/coral-reef.jpg"
         },
         {
           title: "Blue Tang",
