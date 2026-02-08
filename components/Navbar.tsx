@@ -105,7 +105,8 @@ export default function Navbar() {
           </div>
 
           <div className="md:hidden flex items-center space-x-2">
-            <Globe className="w-5 h-5 text-gray-300" />
+            <img src="/logo.webp" alt="Logo Semujur Island" className="w-6 h-6 object-contain" />
+            
             <select
               value={language}
               onChange={(e) => setLanguage(e.target.value as 'en' | 'id')}
