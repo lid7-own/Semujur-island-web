@@ -26,7 +26,10 @@ export const metadata: Metadata = {
         url: '/logo.webp',
       },
     ],
-  },
+  },    verification: {
+      google: 'evwQttFVFt7bOjEff8VZlG-NtDCFI-OfZ4j7ElC31Zc',
+    },
+  
 };
 
 export default function RootLayout({
