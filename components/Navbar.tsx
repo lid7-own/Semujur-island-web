@@ -105,7 +105,12 @@ export default function Navbar() {
           </div>
 
           <div className="md:hidden flex items-center space-x-2">
-            <img src="/logo.webp" alt="Logo Semujur Island" className="w-6 h-6 object-contain" />
+  <img 
+    src="/logo.webp" 
+    alt="Logo Semujur Island" 
+    className="w-8 h-8 rounded-full object-contain" 
+  />
+            
             
             <select
               value={language}
